@@ -168,19 +168,19 @@ You will get structured guidance and designated time to work throughout the cour
 
 ## Project Schedule
 
-|Project| Due| Deadline|
-| ---    | ---    |  ---     |
-|Project 1| Due @ End of Unit 1| 1st September 2018 (Saturday), 6am|
-| ---    | ---    |  ---     |
-|Project 2| Due @ End of Unit 2| 15th September 2018 (Saturday), 6am|
-|Project 4: Proposal + Dataset| Due @ End of Unit 2| 15th September 2018 (Saturday), 6am
-| ---    | ---    |  ---     |
-|Project 3| Due @ End of Unit 3| 29th September 2018 (Saturday), 6am|
-|Project 4: Initial EDA Brief| Due @ End of Unit 3| 29th September 2018 (Saturday), 6am|
-| ---    | ---    |  ---     |
-|Project 4: Technical Report| Due @ End of Unit 4| 13th October 2018 (Saturday), 6am|
-| ---    | ---    |  ---     |
-|Project 4: Presentation| Due @ End of Unit 4|20th October 2018 (Saturday), 6am|
+|Project| Due| Deadline| Submission|
+| ---    | ---    |  ---     | ---|
+|Project 1| Due @ End of Unit 1| 1st September 2018 (Saturday), 6am| [Submit here](https://goo.gl/forms/QYqsonQ2eWQ3KFrd2)
+| ---    | ---    |  ---     | ---|
+|Project 2| Due @ End of Unit 2| 15th September 2018 (Saturday), 6am| [Submit here](https://goo.gl/forms/QYqsonQ2eWQ3KFrd2)
+|Project 4: Proposal + Dataset| Due @ End of Unit 2| 15th September 2018 (Saturday), 6am| [Submit here](https://goo.gl/forms/QYqsonQ2eWQ3KFrd2)
+| ---    | ---    |  ---     | ---|
+|Project 3| Due @ End of Unit 3| 29th September 2018 (Saturday), 6am| [Submit here](https://goo.gl/forms/QYqsonQ2eWQ3KFrd2)
+|Project 4: Initial EDA Brief| Due @ End of Unit 3| 29th September 2018 (Saturday), 6am| [Submit here](https://goo.gl/forms/QYqsonQ2eWQ3KFrd2)
+| ---    | ---    |  ---     | ---|
+|Project 4: Technical Report| Due @ End of Unit 4| 13th October 2018 (Saturday), 6am| [Submit here](https://goo.gl/forms/QYqsonQ2eWQ3KFrd2)
+| ---    | ---    |  ---     | ---|
+|Project 4: Presentation| Due @ End of Unit 4|20th October 2018 (Saturday), 6am| [Submit here](https://goo.gl/forms/QYqsonQ2eWQ3KFrd2)
 
 ---
 
